@@ -1,1 +1,2 @@
 "# MEDEAS_pbre0001" 
+"Analysis of Stable Isotope data  for Monash University MEDEAS Unit assesment, March 2024. Data adapted from   Wood, C. T., Johnson, K. R., Lewis, Lindsey. E., Wright, K., Wang, J. K., Borsato, A., Griffiths, M. L., Mason, A., Henderson, G. M., Setera, J. B., Frisia, S., Keophanhya, S., & White, J. C. (2023). High‐Resolution, Multiproxy Speleothem Record of the 8.2 ka Event From Mainland Southeast Asia. Paleoceanography and Paleoclimatology, 38(12). https://doi.org/10.1029/2023PA004675"
